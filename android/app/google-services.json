@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228798834655",
+    "firebase_url": "https://okeefe-wedding-2019.firebaseio.com",
+    "project_id": "okeefe-wedding-2019",
+    "storage_bucket": "okeefe-wedding-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228798834655:android:8fb86e1fdf17a7aa91066a",
+        "android_client_info": {
+          "package_name": "com.openmikeknight.big_day_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228798834655-k023tcvcu5r83mon82sd9ctep9vr4iuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh8Ku5gT_7z2BFiaSzxDZ2AGuvP4g2Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228798834655-k023tcvcu5r83mon82sd9ctep9vr4iuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228798834655-nj9e13i5ajm002ood7vh61t2o2e52421.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openmikeknight.big-day-mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

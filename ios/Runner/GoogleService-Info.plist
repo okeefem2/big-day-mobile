@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>228798834655-nj9e13i5ajm002ood7vh61t2o2e52421.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.228798834655-nj9e13i5ajm002ood7vh61t2o2e52421</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKNS5-6e5lQYdQBpyguObqsAqZaLptX-o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228798834655</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.openmikeknight.big-day-mobile</string>
+	<key>PROJECT_ID</key>
+	<string>okeefe-wedding-2019</string>
+	<key>STORAGE_BUCKET</key>
+	<string>okeefe-wedding-2019.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228798834655:ios:50bf6dd1ad1e761791066a</string>
+	<key>DATABASE_URL</key>
+	<string>https://okeefe-wedding-2019.firebaseio.com</string>
+</dict>
+</plist>
